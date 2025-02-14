@@ -131,7 +131,6 @@
 - 텍스트 감정 분석 모델 활용
 - 판매량 데이터 확보 방안 모색
 
-## 📚 참고자료
-- 올리브영 온라인몰
-- 뷰티경제 (2023.12.18) "선크림, 2024 매출 극대화 전략"
-- 뷰티경제 (2023.01.06) "자외선차단제, 618겹친 6월에 승부난다"
+### 더 자세한 내용을 알고 싶다면? 
+- [📃 Velog에서 자세한 분석 과정 보기](https://velog.io/@peng_data/%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81-%EC%8D%AC%EC%BC%80%EC%96%B4-%EC%A0%9C%ED%92%88-%EB%A6%AC%EB%B7%B0-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B3%BC-%EC%A0%9C%ED%92%88-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4)
+- [📊 프로젝트 전체 발표자료 보기](https://drive.google.com/file/d/1HOt32c8p3o2j91LD51qC_HzJ3wgRwk4-/view?usp=drive_link)
