@@ -1,8 +1,4 @@
 # OliveYoung_SuncareInsights
-Analysis of OliveYoung's suncare product reviews to uncover consumer preferences and propose new product ideas and effective marketing strategies.
-
-# 올리브영 선케어 제품 리뷰 데이터 분석
-
 ## 📋 프로젝트 개요
 
 올리브영의 선케어 제품 카테고리별 리뷰 데이터를 분석하여 차년도 신규 선케어 제품 개발 아이디어를 도출하고 각 카테고리별 최적의 마케팅 방법을 분석한 프로젝트입니다.
