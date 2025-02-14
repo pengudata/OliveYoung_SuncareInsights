@@ -100,7 +100,7 @@
 ## 🤖 선케어 제품 추천 서비스
 
 사용자의 피부타입과 선호도를 기반으로 최적의 선케어 제품을 추천하는 서비스를 개발했습니다.
-
+![Image](https://github.com/user-attachments/assets/68e8d13f-fc1f-4c50-990b-a746a15bcc32)
 ### 기술 스택
 - Pinecone (벡터 데이터베이스)
 - OpenAI API
